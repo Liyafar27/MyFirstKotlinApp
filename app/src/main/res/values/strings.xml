@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstKotlinApp</string>
+    <string name="textFind">Search for GitHub Repositories </string>
+    <string name="textbtnFind">Search</string>
+    <string name="star"> ⭐Stargazers List⭐ </string>
+    <string name="showChart">Show chart</string>
+</resources>
